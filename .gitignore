@@ -1,0 +1,15 @@
+# Python environment (thousands of files, anyone can recreate it)
+.venv/
+
+# Data files (too big for GitHub - BER file alone is 1.5 GB)
+dataSet/raw_dataset/
+dataSet/processed_dataset/
+dataSet/clean_dataset/
+*.pkl
+
+# Lecture material (not our work)
+Knowledge/
+
+# Jupyter and Windows junk files
+.ipynb_checkpoints/
+desktop.ini

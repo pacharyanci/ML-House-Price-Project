@@ -1,0 +1,5 @@
+cluster,Year_of_Construction,TotalFloorArea,UValueWall,UValueRoof,UValueWindow,HSMainSystemEfficiency,homes,median_BerRating,pct_B3_or_better
+0,1995.0,87.63,0.55,0.22,2.2,91.0,7176,160.7,44.6
+1,2022.0,113.83,0.18,0.13,1.21,461.66,1203,36.9,99.9
+2,2020.0,121.05,0.18,0.15,1.24,354.36,468,39.5,98.9
+3,1950.0,101.91,1.83,1.61,2.81,90.2,1153,318.2,2.1

@@ -1,3 +1,0 @@
-,MAE,RMSE,MedAE,R2
-Baseline: Linear Regression,24.69,37.83,17.27,0.9
-XGBoost,11.53,19.57,6.46,0.97

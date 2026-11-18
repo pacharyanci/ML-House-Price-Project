@@ -1,3 +1,0 @@
-,F1_macro,Precision_macro,Recall_macro,Accuracy,Cohen_Kappa,PR_AUC
-Baseline: Logistic Regression,0.942,0.94,0.944,0.943,0.883,0.992
-Random Forest,0.934,0.932,0.939,0.935,0.869,0.991
